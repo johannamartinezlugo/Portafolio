@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Portafolio NPL Johanna Martinez 
+![Imagen](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/01/18170655/an-introduction-to-natural-language-processing-with-python-for-seos-5f3519eeb8368-1024x538.png)
 
-You can use the [editor on GitHub](https://github.com/johannamartinezlugo/Portafolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+¡¡¡Hola!!! Soy Johanna Martinez, profesional en Administración de Empresas y candidata a Especialista en Analítica estratégica de Datos =).
+En este espacio podrás encontrar todo mi portafolio de los talleres que he venido desarrollando a lo largo del semestre 2021-1 en NLP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Mis Proyectos
 
-### Markdown
+-[Adquisición de textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/taller2.pdf)
+>> Uso de conjunto de datos abiertos 
+>> Archivos más comunes: .csv, .txt, .json, .zip
+>> Tipos de archivos Office: Word, Excel, Google Sheets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[Representación vectorial de textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller_4.ipynb)
+>> Palabras vacías
+>> Tokenización
+>> Stemming
+>> Lematización
 
-```markdown
-Syntax highlighted code block
+-[Vectorización con TF-IDF](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller_5.ipynb)
+>> Matriz TF-IDF usando TfidfVectorizer
+>> Medida de similitud usando la distancia del coseno usando cosine_distances
+>> Gráfico de calor
 
-# Header 1
-## Header 2
-### Header 3
+-[Clasificación de Textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%207_Johanna%20Mart%C3%ADnez.ipynb)
+>> Modelos de Clasificación MultinomialNB, LogisticRegression y LinearSVC
+>> Medidas de rendimiento para modelos de clasificación
+>> Agrupación de textos con KMeans, aplicando el método del codo
 
-- Bulleted
-- List
+-[Agrupación de textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%208_%20Johanna%20Martinez.ipynb)
+>> Agrupación de textos con K-Means
 
-1. Numbered
-2. List
+-[Modelado de temas](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%209_Johanna%20Martinez.ipynb)
+>> Modelo de LDA
+>> Visualización de LDA
 
-**Bold** and _Italic_ and `Code` text
+-[Visualizaciones para NLP](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%2010_Johanna%20Martinez.ipynb)
+>> Crear nubes de palabras en Python y Tableau Public
 
-[Link](url) and ![Image](src)
-```
+-[Análisis de Sentimiento](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/taller12_Johanna_Martinez.ipynb)
+>> Extraer tweets usando la API de Twitter usando tres diferentes librerías
+>> Visualización a través de nubes de palabras
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+>> Si quieres conocer más sobre mi trabajo puedes visitar:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johannamartinezlugo/Portafolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-[LinkedIn](https://www.linkedin.com/in/johanna-martinez-53576a113/)
