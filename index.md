@@ -40,6 +40,7 @@ En este espacio podrás encontrar todo mi portafolio de los talleres que he veni
 -[Análisis de Sentimiento](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/taller12_Johanna_Martinez.ipynb)
 >> Extraer tweets usando la API de Twitter usando tres diferentes librerías
 >> Visualización a través de nubes de palabras
+>>
 
 >> Si quieres conocer más sobre mi trabajo puedes visitar:
 
