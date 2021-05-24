@@ -10,10 +10,7 @@ En este espacio podrás encontrar todo mi portafolio de los talleres que he veni
 >>Uso de conjunto de datos abiertos. Archivos más comunes: .csv, .txt, .json, .zip. Tipos de archivos Office: Word, Excel, Google Sheets
 
 -[Representación vectorial de textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller_4.ipynb)
->> Palabras vacías
->> Tokenización
->> Stemming
->> Lematización
+>> Palabras vacías.Tokenización.Stemming.Lematización
 
 -[Vectorización con TF-IDF](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller_5.ipynb)
 >> Matriz TF-IDF usando TfidfVectorizer
