@@ -6,8 +6,8 @@ En este espacio podrás encontrar todo mi portafolio de los talleres que he veni
 
 ## Mis Proyectos
 
--[Adquisición de textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/taller2.pdf)
-###Uso de conjunto de datos abiertos 
+1: [Adquisición de textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/taller2.pdf)
+   Uso de conjunto de datos abiertos 
 >> Archivos más comunes: .csv, .txt, .json, .zip
 >> Tipos de archivos Office: Word, Excel, Google Sheets
 
