@@ -1,5 +1,5 @@
-## Portafolio NPL Johanna Martinez 
-![Imagen](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/01/18170655/an-introduction-to-natural-language-processing-with-python-for-seos-5f3519eeb8368-1024x538.png)
+## Portafolio NLP Johanna Martinez 
+![Imagen](https://ovrmind.com/wp-content/uploads/2019/12/artificial-intelligence-4389372_640.jpg)
 
 ¡¡¡Hola!!! Soy Johanna Martinez, profesional en Administración de Empresas y candidata a Especialista en Analítica estratégica de Datos.
 En este espacio podrás encontrar todo mi portafolio de los talleres que he venido desarrollando a lo largo del semestre 2021-1 en NLP.
