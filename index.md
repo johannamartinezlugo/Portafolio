@@ -42,6 +42,6 @@ En este espacio podrás encontrar todo mi portafolio de los talleres que he veni
 >> Visualización a través de nubes de palabras
 >>
 
->> Si quieres conocer más sobre mi trabajo puedes visitar:
+## Si quieres conocer más sobre mi trabajo puedes visitar:
 
 -[LinkedIn](https://www.linkedin.com/in/johanna-martinez-53576a113/)
