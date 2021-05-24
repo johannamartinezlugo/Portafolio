@@ -13,28 +13,22 @@ En este espacio podrás encontrar todo mi portafolio de los talleres que he veni
 >> Palabras vacías.Tokenización.Stemming.Lematización
 
 -[Vectorización con TF-IDF](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller_5.ipynb)
->> Matriz TF-IDF usando TfidfVectorizer
->> Medida de similitud usando la distancia del coseno usando cosine_distances
->> Gráfico de calor
+>> Matriz TF-IDF usando TfidfVectorizer.Medida de similitud usando la distancia del coseno usando cosine_distances.Gráfico de calor
 
 -[Clasificación de Textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%207_Johanna%20Mart%C3%ADnez.ipynb)
->> Modelos de Clasificación MultinomialNB, LogisticRegression y LinearSVC
->> Medidas de rendimiento para modelos de clasificación
->> Agrupación de textos con KMeans, aplicando el método del codo
+>> Modelos de Clasificación MultinomialNB. Medidas de rendimiento para modelos de clasificación. Agrupación de textos con KMeans, aplicando el método del codo
 
 -[Agrupación de textos](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%208_%20Johanna%20Martinez.ipynb)
 >> Agrupación de textos con K-Means
 
 -[Modelado de temas](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%209_Johanna%20Martinez.ipynb)
->> Modelo de LDA
->> Visualización
+>> Modelo de LDA. Visualización
 
 -[Visualizaciones para NLP](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%2010_Johanna%20Martinez.ipynb)
 >> Crear nubes de palabras en Python y Tableau Public
 
 -[Análisis de Sentimiento](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/taller12_Johanna_Martinez.ipynb)
->> Extraer tweets usando la API de Twitter usando tres diferentes librerías
->> Visualización a través de nubes de palabras
+>> Extraer tweets usando la API de Twitter usando tres diferentes librerías. Visualización a través de nubes de palabras
 
 ## Si quieres conocer más sobre mi trabajo puedes ingresar a mi perfil:
 
