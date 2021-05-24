@@ -32,7 +32,7 @@ En este espacio podrás encontrar todo mi portafolio de los talleres que he veni
 
 -[Modelado de temas](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%209_Johanna%20Martinez.ipynb)
 >> Modelo de LDA
->> Visualización de LDA
+>> Visualización
 
 -[Visualizaciones para NLP](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Taller%2010_Johanna%20Martinez.ipynb)
 >> Crear nubes de palabras en Python y Tableau Public
@@ -40,7 +40,6 @@ En este espacio podrás encontrar todo mi portafolio de los talleres que he veni
 -[Análisis de Sentimiento](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/taller12_Johanna_Martinez.ipynb)
 >> Extraer tweets usando la API de Twitter usando tres diferentes librerías
 >> Visualización a través de nubes de palabras
->>
 
 ## Si quieres conocer más sobre mi trabajo puedes ingresar a mi perfil:
 
