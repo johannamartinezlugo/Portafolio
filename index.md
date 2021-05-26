@@ -28,7 +28,11 @@ En este espacio podrás encontrar todo mi portafolio de los talleres que he veni
 >> Crear nubes de palabras en Python y Tableau Public
 
 -[Análisis de Sentimiento](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/taller12_Johanna_Martinez.ipynb)
->> Extraer tweets usando la API de Twitter usando tres diferentes librerías. Visualización a través de nubes de palabras
+>> Extraer tweets usando la API de Twitter usando tres diferentes librerías. Visualización a través de nubes de palabras.
+
+-[Proyecto Final NLP](https://github.com/johannamartinezlugo/NLP-Portafolio/blob/main/Talleres/Proyecto%20Final%20NLP.ipynb)
+>> Liga de fútbol femenina. Una mirada desde las redes sociales, con perspectiva de género.
+
 
 ## Si quieres conocer más sobre mi trabajo puedes ingresar a mi perfil:
 
